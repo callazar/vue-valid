@@ -1,5 +1,7 @@
 # vue-valid
 
+&ensp; in this tutorial im using database in docker
+
 ## Project setup
 ```
 npm install
